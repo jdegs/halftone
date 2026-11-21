@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.tmp
+
+# Regenerable intermediates
+crops/
+crops_480x800/
+
+# Source grids and rendered wallpapers are derived from other people's cover
+# designs. Keep them out of public repos; delete these lines for a private one.
+*.jpg
+*.jpeg
+*.png
+wallpapers/
+wallpapers_480x800/
